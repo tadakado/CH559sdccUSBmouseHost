@@ -2,6 +2,8 @@
 
 forked from https://github.com/atc1441/CH559sdccUSBHost
 
+This is a part of [modulo keyboard project](https://github.com/tadakado/modulo)
+
 ## Modification
 1. main.c : boaud-rate: 57600
 2. uart.c : custom output (mouse report) 0x80 BB XX YY VV HH
