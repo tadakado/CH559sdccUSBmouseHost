@@ -16,5 +16,5 @@ compile.bat
 2. chflasher.exe CH559USB.bin
 
 ## Support additional mouse
-1. Identify mouse report format of your mouse. To investigate the format genue CH559 output gives all information you need. Some mice format were analyzed and summarized in [the file](CH559_output_format.txt).
+1. Identify mouse report format of your mouse. To investigate the format genuine CH559 output gives all information you need. Some mice format were analyzed and summarized in [the file](CH559_output_format.txt).
 2. Modify uart.c
