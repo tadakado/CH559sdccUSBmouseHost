@@ -3,9 +3,8 @@
 forked from https://github.com/atc1441/CH559sdccUSBHost
 
 ## Modification
-main.c & uart.c
-boaud-rate: 57600
-custom output (mouse report) 0x80 BB XX YY VV HH
+1. main.c : boaud-rate: 57600
+2. uart.c : custom output (mouse report) 0x80 BB XX YY VV HH
 
 ## Compile
 compile.bat
